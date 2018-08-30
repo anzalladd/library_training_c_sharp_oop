@@ -1,0 +1,10 @@
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\obj\Debug\latihan_library.csproj.CoreCompileInputs.cache
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\bin\Debug\latihan_library.exe.config
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\bin\Debug\latihan_library.exe
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\bin\Debug\latihan_library.pdb
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\bin\Debug\casio.dll
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\bin\Debug\casio.pdb
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\obj\Debug\latihan_library.csprojAssemblyReference.cache
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\obj\Debug\latihan_library.csproj.CopyComplete
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\obj\Debug\latihan_library.exe
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\latihan_library\latihan_library\obj\Debug\latihan_library.pdb

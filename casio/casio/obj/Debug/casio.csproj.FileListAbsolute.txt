@@ -1,0 +1,6 @@
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\casio\casio\bin\Debug\casio.dll
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\casio\casio\bin\Debug\casio.pdb
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\casio\casio\obj\Debug\casio.csprojAssemblyReference.cache
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\casio\casio\obj\Debug\casio.csproj.CoreCompileInputs.cache
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\casio\casio\obj\Debug\casio.dll
+D:\smk_telkom\Kelas_XI\kk3\visual_studio_doc\casio\casio\obj\Debug\casio.pdb
